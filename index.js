@@ -42,14 +42,14 @@ async function run() {
 
       filteredRepos = filteredRepos.concat(
         data.filter((repo) =>
-          repo.name.includes("start-this-repo-and-enjoy-a-meme")
+          repo.name.includes("star-this-repo-and-enjoy-a-meme")
         )
       );
     }
 
     filteredRepos.forEach(async ({ full_name, stargazers_count }) => {
       const [owner, repo] = full_name.split("/");
-      const name = `start-this-repo-and-enjoy-a-meme-${stargazers_count}`;
+      const name = `star-this-repo-and-enjoy-a-meme-${stargazers_count}`;
       const title = `THIS REPO HAS ${stargazers_count} STARS ⭐️`;
       const msg = `[${actor}](https://github.com/${actor}) helped me count the ${toOrd(
         stargazers_count

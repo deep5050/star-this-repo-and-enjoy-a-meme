@@ -1,5 +1,5 @@
-name: "start-this-repo-and-enjoy-a-memeS"
-description: "start-this-repo-and-enjoy-a-meme"
+name: "star-this-repo-and-enjoy-a-meme"
+description: "star-this-repo-and-enjoy-a-meme"
 inputs:
   githubToken:
     description: "Your Github Token"
