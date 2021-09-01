@@ -2,7 +2,7 @@
   <h1 align=center> ⭐ = 😝 </p>
 <p align=center>
   <h1>star this repo and I will dedicate a meme to you</h1>
- <p align=center> ~~ implemented on a weekday ignoring my deadline. long live my carrer ~~ </p>
+ <p align=center> ~~ implemented on a weekday ignoring my deadline. long live my career ~~ </p>
  </p>
  
  <hr>
