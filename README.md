@@ -1,5 +1,4 @@
-# start-this-repo-and-enjoy-a-meme
-Star :star: this repo to enjoy a random meme :trollface:
+# Star :star: this repo to enjoy a random meme :trollface:
 
 <!--thanksgiving_start-->
 Thanks @deep5050 for starring this repo :+1:, enjoy your meme :point_down:
